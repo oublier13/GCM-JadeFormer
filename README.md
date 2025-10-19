@@ -1,4 +1,4 @@
-# 🌿 JadeFormer: Enhancing Jade Image Retrieval via Self-Supervised Learning with Dynamically Composable Attention
+# Enhancing Jade Image Retrieval: A Self-Supervised Learning Approach with Dynamically Composable Attention
 
 [![Paper Status](https://img.shields.io/badge/Paper-Under%20Review%20at%20The%20Visual%20Computer-blue)](https://link.springer.com/journal/371)
 [![License](https://img.shields.io/github/license/your-username/jadeformer?color=2b9348)](LICENSE)
