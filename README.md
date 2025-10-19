@@ -2,7 +2,6 @@
 
 [![Paper Status](https://img.shields.io/badge/Paper-Under%20Review%20at%20The%20Visual%20Computer-blue)](https://link.springer.com/journal/371)
 [![License](https://img.shields.io/github/license/your-username/jadeformer?color=2b9348)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/jadeformer)](https://github.com/your-username/jadeformer/stargazers)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12%2B-red)](https://pytorch.org/)
 
