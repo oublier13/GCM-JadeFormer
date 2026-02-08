@@ -5,7 +5,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-informational)](#)
 
 > **Jade artifacts embody profound cultural heritage, yet their digital preservation is hindered by complex textures, diverse forms, and limited labeled data.**  
-> We introduce **JadeFormer**, a self-supervised image retrieval model that achieves strong performance on a self-constructed jade dataset by integrating **Compositional Window Multi-Head Attention (CW-MHA)**, **Prior Feature Fusion Module (PFFM)**, and the **Graph Contrastive Momentum (GCM)** framework.
+> We introduce **JadeFormer**, a self-supervised image retrieval model that achieves strong performance on a self-constructed jade dataset by integrating **Compositional Window Multi-Head Attention (CW-MHA)**, **Learnable Prototype Fusion Module (LPFM)**, and the **Graph Contrastive Momentum (GCM)** framework.
 
 ---
 
@@ -15,7 +15,7 @@ This repository contains the **Python implementation** of **JadeFormer** for con
 
 ### 🔑 Key Innovations
 - **Compositional Window Multi-Head Attention (CW-MHA)**: Dynamically composes attention heads to capture fine-grained textures and global morphology.
-- **Prior Feature Fusion Module (PFFM)**: Integrates learnable jade-specific prototypes via bi-directional cross-attention.
+- **Learnable Prototype Fusion Module (LPFM)**: Integrates learnable jade-specific prototypes via bi-directional cross-attention.
 - **Graph Contrastive Momentum (GCM)**: A contrastive learning framework that models relationships among hard negatives using a dynamic similarity graph.
 - **Background-invariant training**: Uses background augmentation to improve robustness in real-world scenarios.
 
